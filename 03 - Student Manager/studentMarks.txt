@@ -1,0 +1,14 @@
+10
+8439, Jake Hobbs, 10, 11, 10, 43
+3724, Matt Thompson, 13, 10, 12, 51
+1212, Ron Herrera, 15, 12, 9, 73
+8327, Alan Shearer, 20, 19, 17, 100
+9384, Gareth Southgate, 8, 7, 10, 33
+2983, Les Ferdinand, 20, 16, 20, 92
+7650, Carlos Emanuel, 2, 10, 7, 30
+1001, Fred Smith, 15, 18, 19, 80
+4072, Jo Huckleberry, 14, 9, 20, 79
+1507, Shane Amore, 20, 20, 20, 100
+
+
+
